@@ -168,6 +168,7 @@
   line-height: 30px;
   max-width: 385px;
   border: 1px solid #838383;
+  padding: 15px 20px;
 }
 .form__button {
   border-radius: 4px;
@@ -180,7 +181,7 @@
   padding: 20px 0 20px 0;
   border: none;
   margin-bottom: 32px;
-  /*transition: background-color 0.5s ease-in 2s;*/
+  transition: background-color 0.5s ease-in;
 }
 .form__button:hover {
   background-color: #3f96f3;
