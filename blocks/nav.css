@@ -18,4 +18,8 @@
   text-decoration: none;
   cursor: pointer;
   color: #000;
+  transition: opacity 0.5s;
+}
+.nav__link:hover {
+  opacity: 50%;
 }
