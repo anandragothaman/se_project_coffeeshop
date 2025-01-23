@@ -26,6 +26,7 @@
   max-width: 385px;
   border: 1px solid #838383;
   padding: 15px 20px;
+  box-shadow: 2px 2px 5px #aaa6a6;
 }
 .form__input::placeholder {
   color: #838383;
@@ -51,6 +52,7 @@
   border: none;
   margin-bottom: 32px;
   transition: background-color 0.5s ease-in;
+  box-shadow: 2px 2px 5px #aaa6a6;
 }
 .form__button:hover {
   background-color: #3f96f3;
