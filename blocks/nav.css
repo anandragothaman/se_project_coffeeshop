@@ -6,6 +6,7 @@
   margin: 30px 0 0 30px;
   width: 105px;
   height: 39px;
+  position: relative;
 }
 .nav__links {
   display: flex;

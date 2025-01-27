@@ -27,6 +27,7 @@
   border: 1px solid #838383;
   padding: 15px 20px;
   box-shadow: 2px 2px 5px #aaa6a6;
+  border-radius: 4px;
 }
 .form__input::placeholder {
   color: #838383;
